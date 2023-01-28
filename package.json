@@ -86,5 +86,8 @@
       "./node_modules/.bin/prettier --write",
       "./node_modules/.bin/eslint"
     ]
+  },
+  "dependencies": {
+    "react-draggable": "^4.4.5"
   }
 }
